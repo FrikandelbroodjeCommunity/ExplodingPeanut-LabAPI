@@ -1,5 +1,5 @@
 ﻿[![GitHub release](https://flat.badgen.net/github/release/FrikandelbroodjeCommunity/ExplodingPeanut-LabAPI/)](https://github.com/FrikandelbroodjeCommunity/ExplodingPeanut-LabAPI/releases/latest)
-[![LabAPI Version](https://flat.badgen.net/static/LabAPI%20Version/v1.1.2)](https://github.com/northwood-studios/LabAPI)
+[![LabAPI Version](https://flat.badgen.net/static/LabAPI%20Version/v1.1.3)](https://github.com/northwood-studios/LabAPI)
 [![License](https://flat.badgen.net/github/license/FrikandelbroodjeCommunity/ExplodingPeanut-LabAPI/)](https://github.com/FrikandelbroodjeCommunity/ExplodingPeanut-LabAPI/blob/master/LICENSE)
 
 # About ExplodingPeanut
