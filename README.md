@@ -5,7 +5,7 @@
 # About ExplodingPeanut
 
 When SCP-173 dies, they explode. The chance peanut explodes is configurable, as is the time between peanut's death and
-the actual explotion.
+the actual explosion.
 
 # Installation
 
